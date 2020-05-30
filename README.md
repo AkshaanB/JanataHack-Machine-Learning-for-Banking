@@ -1,1 +1,1 @@
-# anataHack-Machine-Learning-for-Banking
+# JanataHack-Machine-Learning-for-Banking
